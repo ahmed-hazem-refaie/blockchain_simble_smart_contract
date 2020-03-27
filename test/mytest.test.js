@@ -81,4 +81,3 @@ describe("lotterty contract ", () => {
     //     // asset that all the money in the contract has been sent  ==done
   });
 }); //descripe
-/node_modules/*
